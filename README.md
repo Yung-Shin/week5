@@ -40,9 +40,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Sscreenshot
+<img width="1263" alt="week5 1" src="https://github.com/Yung-Shin/week5_workday_scheduler/assets/123918265/6a6e82b0-4792-405d-9765-492e6114b958">
 
+<img width="939" alt="week5 2" src="https://github.com/Yung-Shin/week5_workday_scheduler/assets/123918265/e674cc00-7720-46b5-95b7-8f7680666fb4">
 
 ## Github URL:
 https://github.com/Yung-Shin/week5_workday_scheduler
 
 ## Deployed Live URL: 
+https://yung-shin.github.io/week5_workday_scheduler/
